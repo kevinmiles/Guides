@@ -23,7 +23,7 @@ What you wanted to use EMACS? Heretic.
     {} for moving paragraphs
     m Bookmark
     ma create a Bookmark a
-    ‘ jump to a bookmakr
+    ‘ jump to a bookmark
     ‘a jump to bookmark a
     :delmarks a delete bookmark a
     `` jump back (two back-ticks)
@@ -118,7 +118,7 @@ Preparefer to use buffers over tabs, until you grok the difference.
     :NERDTreeFind opens it with the current file
     :NERDTreeClose close the current NERDTree  
     Once inside the NERDTree
-    <CR> or o is open file, dirctory
+    <CR> or o is open file, directory
     s open in a new split
     I toggle hidden files
     Omnisharp: Omnisharp provides C# intellisense to Vim via the Rosyln compiler.
