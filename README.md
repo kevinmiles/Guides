@@ -1,13 +1,8 @@
-# ProgNetLinux
-Repository for ProgNet Linux Tutorial
+# Guides
+Repository for useful guides to stuff I always forget
 
-cd /Users/ian_hammond_cooper/Documents/Cloud/AWS
+## Vim
 
-ssh -i Earp.pem ubuntu@18.208.43.155
-
-Some useful commands to show
-/proc
-    ls -l /proc/$(pgrep 'bash')
-
+Basic Vim syntax, for when I grow rusty not having used it for a while
 
 
